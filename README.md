@@ -1,5 +1,5 @@
 # azurecontainerapps-helloworld
-This repository is part of the [Azure container apps Workshop](https://stoworkshopacastaging.z6.web.core.windows.net/)
+This repository is part of the [Azure container apps Workshop](https://aka.ms/aca-workshop)
 
 This sample is a very simple NodeJS application used to demonstrate [Azure Container Apps](https://docs.microsoft.com/en-us/azure/container-apps/). The packaged version of the application is available on [Docker Hub](https://hub.docker.com/r/mavilleg/acarevision-helloworld).
 
